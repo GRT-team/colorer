@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8dfc4dfe-509a-4862-ba2b-73637971ee65++6497" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8dfc4dfe-509a-4862-ba2b-73637971ee65++6497" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2AEF7E7-E244-4EA3-99AC-7B963B68BE31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8dfc4dfe-509a-4862-ba2b-73637971ee65++6497" : "Colorer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Colorer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Colorer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.grt-team.com\/grt_repo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8dfc4dfe-509a-4862-ba2b-73637971ee65++6497"
+    }
+  ]
+}
